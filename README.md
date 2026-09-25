@@ -3,7 +3,7 @@ Public Android app downloads for Fuel Delivery
 
 ## Latest Android Build
 
-- Version: 3.1
-- Build: 27
+- Version: 3.4
+- Build: 41
 - Download: [FuelDelivery.apk](./FuelDelivery.apk)
-- Versioned copy: [FuelDelivery-3.1-build-27-universal.apk](./FuelDelivery-3.1-build-27-universal.apk)
+- Versioned copy: [FuelDelivery-3.4-build-41-universal.apk](./FuelDelivery-3.4-build-41-universal.apk)
